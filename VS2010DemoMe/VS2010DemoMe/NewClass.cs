@@ -5,11 +5,7 @@ using System.Text;
 
 namespace VS2010DemoMe
 {
-  class Program
+  class NewClass
   {
-    static void Main(string[] args)
-    {
-      //Change on the Main Branch from VS2010
-    }
   }
 }
