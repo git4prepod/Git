@@ -10,6 +10,7 @@ namespace VS2010DemoMe
     static void Main(string[] args)
     {
       //Change on the Main Branch from VS2010
+      //added in feature 1.1 version
     }
   }
 }
